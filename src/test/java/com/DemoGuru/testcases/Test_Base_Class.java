@@ -39,8 +39,8 @@ public class Test_Base_Class  {
 		logg  = Logger.getLogger("GuruDemo99");
 		PropertyConfigurator.configure("log4j.properties");
 		
-		String Cpath = "../practice_DemoGuru99/Drivers/chromedriver.exe";
-		String Fpath = "../practice_DemoGuru99/Drivers/geckodriver.exe";
+		String Cpath = "./Drivers/chromedriver.exe";
+		String Fpath = "./Drivers/geckodriver.exe";
 		
 		if(read.getBrowser().equalsIgnoreCase("chrome"))
 		{
