@@ -952,3 +952,30 @@
 2019-04-11 10:42:36,738 - GuruDemo99 -INFO - ----- password entered !!!
 2019-04-11 10:42:37,642 - GuruDemo99 -INFO - ----- clicked on signIn button !!!
 2019-04-11 10:42:37,893 - GuruDemo99 -INFO - ----- Fetched all the names present inside menu list !!!
+2019-04-11 12:21:25,080 - GuruDemo99 -INFO - ----- navigated to URL !!!
+2019-04-11 12:21:25,253 - GuruDemo99 -INFO - ----- username entered !!!
+2019-04-11 12:21:25,313 - GuruDemo99 -INFO - ----- password entered !!!
+2019-04-11 12:21:26,935 - GuruDemo99 -INFO - ----- clicked on signIn button !!!
+2019-04-11 12:21:26,979 - GuruDemo99 -INFO - ----- demoLogin testcase passed !!!
+2019-04-11 12:21:33,077 - GuruDemo99 -INFO - ----- navigated to URL !!!
+2019-04-11 12:21:33,322 - GuruDemo99 -INFO - ----- username entered !!!
+2019-04-11 12:21:33,390 - GuruDemo99 -INFO - ----- password entered !!!
+2019-04-11 12:21:34,481 - GuruDemo99 -INFO - ----- clicked on login button !!!
+2019-04-11 12:21:35,500 - GuruDemo99 -INFO - ----- clicked on AddNewCustomer link !!!
+2019-04-11 12:21:35,582 - GuruDemo99 -INFO - ----- name entered !!!
+2019-04-11 12:21:35,636 - GuruDemo99 -INFO - ----- clicked on gender radio button !!!
+2019-04-11 12:21:35,783 - GuruDemo99 -INFO - ----- DOB entered !!!
+2019-04-11 12:21:35,832 - GuruDemo99 -INFO - ----- address entered !!!
+2019-04-11 12:21:35,886 - GuruDemo99 -INFO - ----- city entered !!!
+2019-04-11 12:21:35,933 - GuruDemo99 -INFO - ----- state entered !!!
+2019-04-11 12:21:36,001 - GuruDemo99 -INFO - ----- pin entered !!!
+2019-04-11 12:21:36,071 - GuruDemo99 -INFO - ----- mobile number entered !!!
+2019-04-11 12:21:36,164 - GuruDemo99 -INFO - ----- email ID entered !!!
+2019-04-11 12:21:36,211 - GuruDemo99 -INFO - ----- password entered !!!
+2019-04-11 12:21:37,269 - GuruDemo99 -INFO - ----- clicked on submit button !!!
+2019-04-11 12:21:37,303 - GuruDemo99 -INFO - ----- addNewCustomer TestCase passed !!!
+2019-04-11 12:21:44,004 - GuruDemo99 -INFO - ----- navigated to URL !!!
+2019-04-11 12:21:44,093 - GuruDemo99 -INFO - ----- username entered !!!
+2019-04-11 12:21:44,150 - GuruDemo99 -INFO - ----- password entered !!!
+2019-04-11 12:21:45,864 - GuruDemo99 -INFO - ----- clicked on signIn button !!!
+2019-04-11 12:21:46,131 - GuruDemo99 -INFO - ----- Fetched all the names present inside menu list !!!
