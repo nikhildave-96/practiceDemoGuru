@@ -1,0 +1,32 @@
+Test Cases can be executed using following approaches  --------
+	testng.xml (eclipse)
+	pom.xml (eclipse)
+	maven (CLI)
+	run.bat file (eclipse or from project folder)
+	Jenkins (CICD)
+		- freestyle project (using run.bat)
+		- maven project (using pom.xml)
+		
+		
+		
+Maven -- build tool (DevOps)
+Jenkins -- continuous integration tool  (DevOps)
+Git/GitHub -- remote central repo 
+
+
+
+WEBDRIVER METHODS -------
+isDisplayed()  >>>>  capable to check for the presence of all kinds of web elements available
+isEnabled()  >>>>>   method used to verify if the web element is enabled or disabled within the webpage (primarily used with buttons)
+isSelected()   >>>>  method used to verify if the web element is selected or not (predominantly used with radio buttons, dropdowns and checkboxes)
+
+
+
+GIT - local repository
+GITHUB - remote repository
+git add - save changes to staging area
+git commit - save changes to local repo
+git push - save changes to remote repo	
+add, commit and push are part of checkin process while getting things from github to git to eclipse (git pull) is checkout process
+working directory (eclipse workspace) -- untracked file
+staging area -- tracked file (git add command to be used)

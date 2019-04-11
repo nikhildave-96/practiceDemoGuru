@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Demo Test Suite]">
+  <listeners>
+    <listener class-name="com.DemoGuru.utility.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="Demo Guru99(failed)">
+    <classes>
+      <class name="com.DemoGuru.testcases.TC_guru_login">
+        <methods>
+          <include name="demoLogin"/>
+          <include name="setup"/>
+          <include name="terminate"/>
+        </methods>
+      </class> <!-- com.DemoGuru.testcases.TC_guru_login -->
+    </classes>
+  </test> <!-- Demo Guru99(failed) -->
+</suite> <!-- Failed suite [Demo Test Suite] -->

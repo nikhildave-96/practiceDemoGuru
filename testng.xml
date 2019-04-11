@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Demo Test Suite">
+	<listeners>
+			<listener class-name="com.DemoGuru.utility.Reporting"></listener>
+	</listeners>
+
+	<test name="Demo Guru99">
+		<classes>
+			<class name="com.DemoGuru.testcases.TC_guru_login"></class>
+		<!-- 	<class name="com.DemoGuru.testcases.TC_LoginDDT"></class>  -->
+			<class name="com.DemoGuru.testcases.TC_AddNewCustomer"></class>
+			<class name="com.DemoGuru.testcases.TC_MenulistItems"></class>
+		</classes>
+	</test>
+</suite>

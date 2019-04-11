@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Demo Test Suite" duration-ms="23358" started-at="2019-04-11T05:12:14Z" finished-at="2019-04-11T05:12:37Z">
+    <groups>
+    </groups>
+    <test name="Demo Guru99" duration-ms="23358" started-at="2019-04-11T05:12:14Z" finished-at="2019-04-11T05:12:37Z">
+      <class name="com.DemoGuru.testcases.TC_guru_login">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.DemoGuru.testcases.TC_guru_login@42e26948]" name="setup" is-config="true" duration-ms="6181" started-at="2019-04-11T05:12:14Z" finished-at="2019-04-11T05:12:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="demoLogin()[pri:0, instance:com.DemoGuru.testcases.TC_guru_login@42e26948]" name="demoLogin" duration-ms="1703" started-at="2019-04-11T05:12:20Z" finished-at="2019-04-11T05:12:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoLogin -->
+      </class> <!-- com.DemoGuru.testcases.TC_guru_login -->
+      <class name="com.DemoGuru.testcases.TC_MenulistItems">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.DemoGuru.testcases.TC_MenulistItems@343f4d3d]" name="setup" is-config="true" duration-ms="4853" started-at="2019-04-11T05:12:31Z" finished-at="2019-04-11T05:12:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getmenulist()[pri:0, instance:com.DemoGuru.testcases.TC_MenulistItems@343f4d3d]" name="getmenulist" duration-ms="1314" started-at="2019-04-11T05:12:36Z" finished-at="2019-04-11T05:12:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getmenulist -->
+      </class> <!-- com.DemoGuru.testcases.TC_MenulistItems -->
+      <class name="com.DemoGuru.testcases.TC_AddNewCustomer">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.DemoGuru.testcases.TC_AddNewCustomer@57baeedf]" name="setup" is-config="true" duration-ms="5258" started-at="2019-04-11T05:12:22Z" finished-at="2019-04-11T05:12:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.DemoGuru.testcases.TC_AddNewCustomer@57baeedf]" name="addNewCustomer" duration-ms="3805" started-at="2019-04-11T05:12:27Z" finished-at="2019-04-11T05:12:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+      </class> <!-- com.DemoGuru.testcases.TC_AddNewCustomer -->
+    </test> <!-- Demo Guru99 -->
+  </suite> <!-- Demo Test Suite -->
+</testng-results>
