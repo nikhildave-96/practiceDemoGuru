@@ -12,7 +12,7 @@ public class ReadConfig {
 	{
 		try
 		{
-			fis = new FileInputStream("../practice_DemoGuru99/src/test/java/com/DemoGuru/Configuration/guru.properties");
+			fis = new FileInputStream("./src/test/java/com/DemoGuru/Configuration/guru.properties");
 			pro = new Properties();
 			pro.load(fis);
 		
