@@ -84,7 +84,8 @@ public class Test_Base_Class  {
 	
 	public static String getDynEmail()
 	{
-		String email =RandomStringUtils.randomAlphabetic(5);
+		String txt = RandomStringUtils.randomAlphabetic(5);
+		String email = txt+"@amdev.in";
 		return email;
 	}
 }

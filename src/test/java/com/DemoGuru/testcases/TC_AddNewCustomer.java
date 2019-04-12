@@ -43,10 +43,10 @@ public class TC_AddNewCustomer extends Test_Base_Class {
 		acp.mobile("8407904638");
 		logg.info("----- mobile number entered !!!");
 		
-		String mailID = getDynEmail()+"@gmail.com";
+		String mailID = getDynEmail();
 	//	System.out.println(mailID);
 		acp.mail(mailID);
-		logg.info("----- email ID entered !!!");
+		logg.info("----- "+"' "+mailID+" '"+" email entered !!!");
 		
 		acp.pwd("12345");
 		logg.info("----- password entered !!!");

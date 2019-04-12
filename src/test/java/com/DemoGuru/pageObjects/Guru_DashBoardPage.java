@@ -33,6 +33,10 @@ public class Guru_DashBoardPage {
 	@FindBy (xpath = "//b[@class='caret']/parent::a/following-sibling::ul/li/a")
 	List <WebElement> AlldropdownContents;
 	
+	@FindBy (xpath = "//a[text()='Insurance Project']")
+	WebElement lnkInsuranceProject;
+	
+	
 	
 	public void getmenuList()
 	{
@@ -70,5 +74,8 @@ public class Guru_DashBoardPage {
 		}
 	}
 	
-	
+	public void clickInsurance()
+	{
+		lnkInsuranceProject.click();
+	}
 }

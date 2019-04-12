@@ -3,12 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.DemoGuru.testcases.TC_AddNewCustomer">
+      <class name="com.DemoGuru.testcases.TC_Login">
         <methods>
-          <include name="addNewCustomer"/>
+          <include name="Login"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- com.DemoGuru.testcases.TC_AddNewCustomer -->
+      </class> <!-- com.DemoGuru.testcases.TC_Login -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

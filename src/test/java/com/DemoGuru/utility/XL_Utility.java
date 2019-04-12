@@ -3,9 +3,9 @@ package com.DemoGuru.utility;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 
-import org.apache.poi.ss.usermodel.Cell;
+
 import org.apache.poi.ss.usermodel.DataFormatter;
-import org.apache.poi.ss.usermodel.Row;
+
 import org.apache.poi.xssf.usermodel.XSSFCell;
 import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
@@ -13,7 +13,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class XL_Utility {
 
-	public static  XSSFWorkbook wb;
+	public static XSSFWorkbook wb;
 	public static XSSFSheet ws;
 	public static FileInputStream fis;
 	public static FileOutputStream fos;
@@ -39,7 +39,7 @@ public class XL_Utility {
 		fis = new FileInputStream(excelfile);
 		wb = new XSSFWorkbook(fis);
 		ws = wb.getSheet(sheetname);
-		Row row = ws.getRow(rowNum);
+		row = ws.getRow(rowNum);
 		int colCount = row.getLastCellNum();
 		wb.close();
 		fis.close();
@@ -52,8 +52,8 @@ public class XL_Utility {
 		fis = new FileInputStream(excelfile);
 		wb = new XSSFWorkbook(fis);
 		ws = wb.getSheet(sheetname);
-		Row row = ws.getRow(rowNum);
-		Cell cell =row.getCell(cellnum);
+		row = ws.getRow(rowNum);
+		cell =row.getCell(cellnum);
 		String Data = null;
 		try
 		{
@@ -78,7 +78,8 @@ public class XL_Utility {
 		fis = new FileInputStream(excelfile);
 		wb = new XSSFWorkbook(fis);
 		ws = wb.getSheet(sheetname);
-		row = ws.getRow(rowNum);
+//		row = ws.getRow(rowNum);	// fetches XSSFRow representing the row index number supplied or null if that row is not defined on the sheet !!!!!
+		row = ws.createRow(rowNum);		// creates a new row with supplied row index
 		cell = row.createCell(col);
 		cell.setCellValue(data2add);
 		fos = new FileOutputStream(excelfile);
