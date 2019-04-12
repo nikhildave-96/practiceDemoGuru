@@ -1320,3 +1320,7 @@
 2019-04-12 16:41:03,478 [main] INFO GuruDemo99 - ----- username entered !!!
 2019-04-12 16:41:03,538 [main] INFO GuruDemo99 - ----- password entered !!!
 2019-04-12 16:41:05,217 [main] INFO GuruDemo99 - ----- clicked on signIn button !!!
+2019-04-12 18:01:49,732 [main] INFO GuruDemo99 - ----- navigated to URL !!!
+2019-04-12 18:01:49,843 [main] INFO GuruDemo99 - ----- username entered !!!
+2019-04-12 18:01:49,905 [main] INFO GuruDemo99 - ----- password entered !!!
+2019-04-12 18:01:51,150 [main] INFO GuruDemo99 - ----- clicked on signIn button !!!

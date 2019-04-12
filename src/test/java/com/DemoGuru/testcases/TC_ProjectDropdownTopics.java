@@ -7,6 +7,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 import com.DemoGuru.pageObjects.Guru_LoginPage;
+import com.DemoGuru.utility.XL_Utility;
 
 public class TC_ProjectDropdownTopics extends Test_Base_Class {
 
@@ -14,7 +15,7 @@ public class TC_ProjectDropdownTopics extends Test_Base_Class {
 	// try this using array instead of list for fetching project names
 	
 	@Test
-	public void dropdownProjects()
+	public void dropdownProjects() throws Exception
 	{
 		Guru_LoginPage glp = new Guru_LoginPage(driver);
 		glp.enterUsername(user);
@@ -26,18 +27,17 @@ public class TC_ProjectDropdownTopics extends Test_Base_Class {
 		
 		List <WebElement> ProjectDD = driver.findElements(By.xpath("//b[@class='caret']/parent::a"));
 		List<String> s = new ArrayList<String>();
-		
+	
 		System.out.println("Below Projects have dropdown topics : ");
 		for (WebElement projectdd : ProjectDD) 
 		{
 			System.out.println(" --- "+projectdd.getText());
 			String word = projectdd.getText();
-			s.add(word);
+			s.add(word);	
 		}
 		
 		System.out.println();
 		System.out.println("Topics in above dropdown projects are  : ");
-		
 		for(int i=0;i<s.size();i++)
 		{
 			System.out.println(" --> "+"'"+s.get(i)+"'"+" section list is as below - ");
@@ -49,5 +49,9 @@ public class TC_ProjectDropdownTopics extends Test_Base_Class {
 			}
 			System.out.println();
 		}
+		
+		
+		
+		
 	}
 }

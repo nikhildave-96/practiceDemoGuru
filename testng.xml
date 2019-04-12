@@ -14,7 +14,7 @@
 			<class name="com.DemoGuru.testcases.TC_ProjectList"></class>
 			<class name="com.DemoGuru.testcases.TC_MenulistItems"></class>
 			<class name="com.DemoGuru.testcases.TC_ProjectDropdownTopics"></class>
-			
+			<class name="com.DemoGuru.testcases.TC_InsuranceProjectRegister"></class>
 			
 		</classes>
 	</test>
