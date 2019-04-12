@@ -8,7 +8,7 @@
 
 	<test name="Demo Guru99">
 		<classes>
-			<class name="com.DemoGuru.testcases.TC_guru_login"></class>
+			<class name="com.DemoGuru.testcases.TC_Login"></class>
 		<!-- 	<class name="com.DemoGuru.testcases.TC_LoginDDT"></class>  -->
 			<class name="com.DemoGuru.testcases.TC_AddNewCustomer"></class>
 			<class name="com.DemoGuru.testcases.TC_ProjectList"></class>
