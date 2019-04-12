@@ -1,0 +1,28 @@
+BASIC IMPORTANT GIT COMMANDS  ::: 
+
+
+git clone username@host:/path/to/repository		>>>>>		taking clone of the project stored inside the github/bitbucket repo
+
+git commit -m "Commit message"		>>>>>		commits your changes and you can also specify the changes done inside commit message
+
+git add -A		>>>>>		adds all files to the staging area	(untrack to tracked file)
+git add <filename>		>>>>>>>>>>		adds the specified file only to the staging area
+git add *		>>>>>>		adds all files to the staging area
+
+git init		>>>>>>>		  Create a new local repository
+
+git status		>>>>>>		shows the status of  files you've changed and those you still need to add or commit
+
+git push "branch name"		>>>>>>>>>		adds your changes to the remote repo from your local repo
+
+git push origin master		>>>>>>>>		Send changes to the master branch of your remote repository
+
+git checkout -b <branchname>		>>>>>>>		Create a new branch and switch to it
+
+git checkout <branchname>		>>>>>>		Switch from one branch to another
+
+git pull		>>>>>>>>>>>>		Fetch and merge changes on the remote server to your working directory
+
+git log		>>>>>>>			shows the history of commit
+
+git branch -d <branchname>		>>>>>>		Delete the specified branch

@@ -6,7 +6,7 @@ Test Cases can be executed using following approaches  --------
 	Jenkins (CICD)
 		- freestyle project (using run.bat)
 		- maven project (using pom.xml)
-		
+		- maven project (using github URL)
 		
 		
 Maven -- build tool (DevOps)

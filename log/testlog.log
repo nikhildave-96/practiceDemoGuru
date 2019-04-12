@@ -979,3 +979,87 @@
 2019-04-11 12:21:44,150 - GuruDemo99 -INFO - ----- password entered !!!
 2019-04-11 12:21:45,864 - GuruDemo99 -INFO - ----- clicked on signIn button !!!
 2019-04-11 12:21:46,131 - GuruDemo99 -INFO - ----- Fetched all the names present inside menu list !!!
+2019-04-11 16:15:53,163 - GuruDemo99 -INFO - ----- navigated to URL !!!
+2019-04-11 16:15:53,291 - GuruDemo99 -INFO - ----- username entered !!!
+2019-04-11 16:15:53,353 - GuruDemo99 -INFO - ----- password entered !!!
+2019-04-11 16:15:54,910 - GuruDemo99 -INFO - ----- clicked on signIn button !!!
+2019-04-11 16:15:55,049 - GuruDemo99 -INFO - ----- Fetched all the types of projects present on dashboard !!!
+2019-04-11 16:27:36,433 - GuruDemo99 -INFO - ----- navigated to URL !!!
+2019-04-11 16:27:36,601 - GuruDemo99 -INFO - ----- username entered !!!
+2019-04-11 16:27:36,662 - GuruDemo99 -INFO - ----- password entered !!!
+2019-04-11 16:27:38,242 - GuruDemo99 -INFO - ----- clicked on signIn button !!!
+2019-04-11 16:27:38,301 - GuruDemo99 -INFO - ----- above projects have dropdown !!!
+2019-04-11 17:27:20,763 - GuruDemo99 -INFO - ----- navigated to URL !!!
+2019-04-11 17:27:20,879 - GuruDemo99 -INFO - ----- username entered !!!
+2019-04-11 17:27:20,948 - GuruDemo99 -INFO - ----- password entered !!!
+2019-04-11 17:27:23,142 - GuruDemo99 -INFO - ----- clicked on signIn button !!!
+2019-04-11 17:27:23,201 - GuruDemo99 -INFO - ----- above projects have dropdown !!!
+2019-04-11 17:39:55,998 - GuruDemo99 -INFO - ----- navigated to URL !!!
+2019-04-11 17:39:56,164 - GuruDemo99 -INFO - ----- username entered !!!
+2019-04-11 17:39:56,233 - GuruDemo99 -INFO - ----- password entered !!!
+2019-04-11 17:39:57,735 - GuruDemo99 -INFO - ----- clicked on signIn button !!!
+2019-04-11 17:39:57,796 - GuruDemo99 -INFO - ----- above projects have dropdown !!!
+2019-04-12 10:08:29,913 - GuruDemo99 -INFO - ----- navigated to URL !!!
+2019-04-12 10:08:30,033 - GuruDemo99 -INFO - ----- username entered !!!
+2019-04-12 10:08:30,099 - GuruDemo99 -INFO - ----- password entered !!!
+2019-04-12 10:08:31,604 - GuruDemo99 -INFO - ----- clicked on signIn button !!!
+2019-04-12 10:15:31,151 - GuruDemo99 -INFO - ----- navigated to URL !!!
+2019-04-12 10:15:31,345 - GuruDemo99 -INFO - ----- username entered !!!
+2019-04-12 10:15:31,404 - GuruDemo99 -INFO - ----- password entered !!!
+2019-04-12 10:15:32,807 - GuruDemo99 -INFO - ----- clicked on signIn button !!!
+2019-04-12 10:18:00,486 - GuruDemo99 -INFO - ----- navigated to URL !!!
+2019-04-12 10:18:00,724 - GuruDemo99 -INFO - ----- username entered !!!
+2019-04-12 10:18:00,792 - GuruDemo99 -INFO - ----- password entered !!!
+2019-04-12 10:18:02,062 - GuruDemo99 -INFO - ----- clicked on signIn button !!!
+2019-04-12 10:23:23,249 - GuruDemo99 -INFO - ----- navigated to URL !!!
+2019-04-12 10:23:23,354 - GuruDemo99 -INFO - ----- username entered !!!
+2019-04-12 10:23:23,420 - GuruDemo99 -INFO - ----- password entered !!!
+2019-04-12 10:23:24,703 - GuruDemo99 -INFO - ----- clicked on signIn button !!!
+2019-04-12 10:32:01,241 - GuruDemo99 -INFO - ----- navigated to URL !!!
+2019-04-12 10:32:01,346 - GuruDemo99 -INFO - ----- username entered !!!
+2019-04-12 10:32:01,410 - GuruDemo99 -INFO - ----- password entered !!!
+2019-04-12 10:32:02,884 - GuruDemo99 -INFO - ----- clicked on signIn button !!!
+2019-04-12 10:33:22,527 - GuruDemo99 -INFO - ----- navigated to URL !!!
+2019-04-12 10:33:22,654 - GuruDemo99 -INFO - ----- username entered !!!
+2019-04-12 10:33:22,711 - GuruDemo99 -INFO - ----- password entered !!!
+2019-04-12 10:33:23,883 - GuruDemo99 -INFO - ----- clicked on signIn button !!!
+2019-04-12 10:34:51,474 - GuruDemo99 -INFO - ----- navigated to URL !!!
+2019-04-12 10:34:51,612 - GuruDemo99 -INFO - ----- username entered !!!
+2019-04-12 10:34:51,676 - GuruDemo99 -INFO - ----- password entered !!!
+2019-04-12 10:34:52,885 - GuruDemo99 -INFO - ----- clicked on signIn button !!!
+2019-04-12 10:43:20,175 - GuruDemo99 -INFO - ----- navigated to URL !!!
+2019-04-12 10:43:20,438 - GuruDemo99 -INFO - ----- username entered !!!
+2019-04-12 10:43:20,494 - GuruDemo99 -INFO - ----- password entered !!!
+2019-04-12 10:43:21,635 - GuruDemo99 -INFO - ----- clicked on signIn button !!!
+2019-04-12 10:43:21,673 - GuruDemo99 -INFO - ----- demoLogin testcase passed !!!
+2019-04-12 10:43:26,907 - GuruDemo99 -INFO - ----- navigated to URL !!!
+2019-04-12 10:43:26,994 - GuruDemo99 -INFO - ----- username entered !!!
+2019-04-12 10:43:27,060 - GuruDemo99 -INFO - ----- password entered !!!
+2019-04-12 10:43:31,475 - GuruDemo99 -INFO - ----- clicked on login button !!!
+2019-04-12 10:43:35,340 - GuruDemo99 -INFO - ----- clicked on AddNewCustomer link !!!
+2019-04-12 10:43:35,431 - GuruDemo99 -INFO - ----- name entered !!!
+2019-04-12 10:43:35,487 - GuruDemo99 -INFO - ----- clicked on gender radio button !!!
+2019-04-12 10:43:35,608 - GuruDemo99 -INFO - ----- DOB entered !!!
+2019-04-12 10:43:35,659 - GuruDemo99 -INFO - ----- address entered !!!
+2019-04-12 10:43:35,721 - GuruDemo99 -INFO - ----- city entered !!!
+2019-04-12 10:43:35,776 - GuruDemo99 -INFO - ----- state entered !!!
+2019-04-12 10:43:35,884 - GuruDemo99 -INFO - ----- pin entered !!!
+2019-04-12 10:43:35,961 - GuruDemo99 -INFO - ----- mobile number entered !!!
+2019-04-12 10:43:36,091 - GuruDemo99 -INFO - ----- email ID entered !!!
+2019-04-12 10:43:36,149 - GuruDemo99 -INFO - ----- password entered !!!
+2019-04-12 10:43:39,614 - GuruDemo99 -INFO - ----- clicked on submit button !!!
+2019-04-12 10:43:39,646 - GuruDemo99 -INFO - ----- addNewCustomer TestCase passed !!!
+2019-04-12 10:43:51,640 - GuruDemo99 -INFO - ----- navigated to URL !!!
+2019-04-12 10:43:51,735 - GuruDemo99 -INFO - ----- username entered !!!
+2019-04-12 10:43:51,798 - GuruDemo99 -INFO - ----- password entered !!!
+2019-04-12 10:44:01,699 - GuruDemo99 -INFO - ----- clicked on signIn button !!!
+2019-04-12 10:44:01,886 - GuruDemo99 -INFO - ----- Above are the types of projects present on dashboard !!!
+2019-04-12 10:44:27,190 - GuruDemo99 -INFO - ----- navigated to URL !!!
+2019-04-12 10:44:27,273 - GuruDemo99 -INFO - ----- username entered !!!
+2019-04-12 10:44:27,340 - GuruDemo99 -INFO - ----- password entered !!!
+2019-04-12 10:44:28,854 - GuruDemo99 -INFO - ----- clicked on signIn button !!!
+2019-04-12 10:44:29,098 - GuruDemo99 -INFO - ----- Fetched all the names present inside menu list !!!
+2019-04-12 10:44:34,400 - GuruDemo99 -INFO - ----- navigated to URL !!!
+2019-04-12 10:44:34,692 - GuruDemo99 -INFO - ----- username entered !!!
+2019-04-12 10:44:34,764 - GuruDemo99 -INFO - ----- password entered !!!
+2019-04-12 10:44:36,296 - GuruDemo99 -INFO - ----- clicked on signIn button !!!

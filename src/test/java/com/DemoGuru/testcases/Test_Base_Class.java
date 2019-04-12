@@ -62,11 +62,11 @@ public class Test_Base_Class  {
 	}
 	
 	
-	@AfterClass
-	public void terminate()
-	{
-		driver.quit();
-	}
+//	@AfterClass
+//	public void terminate()
+//	{
+//		driver.quit();
+//	}
 	
 	
 	public void captureScreenshot(WebDriver driver, String testcaseNAME) throws Exception

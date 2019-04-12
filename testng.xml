@@ -11,7 +11,11 @@
 			<class name="com.DemoGuru.testcases.TC_guru_login"></class>
 		<!-- 	<class name="com.DemoGuru.testcases.TC_LoginDDT"></class>  -->
 			<class name="com.DemoGuru.testcases.TC_AddNewCustomer"></class>
+			<class name="com.DemoGuru.testcases.TC_ProjectList"></class>
 			<class name="com.DemoGuru.testcases.TC_MenulistItems"></class>
+			<class name="com.DemoGuru.testcases.TC_ProjectDropdownTopics"></class>
+			
+			
 		</classes>
 	</test>
 </suite>

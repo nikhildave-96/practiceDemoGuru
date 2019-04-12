@@ -10,7 +10,7 @@ public class TC_guru_login  extends Test_Base_Class {
 
 	
 	@Test
-	public void demoLogin() throws Exception
+	public void Login() throws Exception
 	{
 		Guru_LoginPage glp = new Guru_LoginPage(driver);
 		
