@@ -1,61 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Demo Test Suite" duration-ms="82172" started-at="2019-04-12T05:13:14Z" finished-at="2019-04-12T05:14:36Z">
+  <suite name="Demo Test Suite" duration-ms="60037" started-at="2019-04-16T11:28:14Z" finished-at="2019-04-16T11:29:14Z">
     <groups>
     </groups>
-    <test name="Demo Guru99" duration-ms="82172" started-at="2019-04-12T05:13:14Z" finished-at="2019-04-12T05:14:36Z">
+    <test name="Demo Guru99" duration-ms="60037" started-at="2019-04-16T11:28:14Z" finished-at="2019-04-16T11:29:14Z">
       <class name="com.DemoGuru.testcases.TC_ProjectDropdownTopics">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.DemoGuru.testcases.TC_ProjectDropdownTopics@59a6e353]" name="setup" is-config="true" duration-ms="5303" started-at="2019-04-12T05:14:29Z" finished-at="2019-04-12T05:14:34Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.DemoGuru.testcases.TC_ProjectDropdownTopics@71be98f5]" name="setup" is-config="true" duration-ms="5615" started-at="2019-04-16T11:28:49Z" finished-at="2019-04-16T11:28:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="dropdownProjects()[pri:0, instance:com.DemoGuru.testcases.TC_ProjectDropdownTopics@59a6e353]" name="dropdownProjects" duration-ms="2533" started-at="2019-04-12T05:14:34Z" finished-at="2019-04-12T05:14:36Z">
+        <test-method status="PASS" signature="dropdownProjects()[pri:0, instance:com.DemoGuru.testcases.TC_ProjectDropdownTopics@71be98f5]" name="dropdownProjects" duration-ms="1902" started-at="2019-04-16T11:28:54Z" finished-at="2019-04-16T11:28:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dropdownProjects -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:com.DemoGuru.testcases.TC_ProjectDropdownTopics@71be98f5]" name="terminate" is-config="true" duration-ms="625" started-at="2019-04-16T11:28:56Z" finished-at="2019-04-16T11:28:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
       </class> <!-- com.DemoGuru.testcases.TC_ProjectDropdownTopics -->
       <class name="com.DemoGuru.testcases.TC_ProjectList">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.DemoGuru.testcases.TC_ProjectList@7e0ea639]" name="setup" is-config="true" duration-ms="11993" started-at="2019-04-12T05:13:39Z" finished-at="2019-04-12T05:13:51Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.DemoGuru.testcases.TC_ProjectList@59a6e353]" name="setup" is-config="true" duration-ms="5413" started-at="2019-04-16T11:28:32Z" finished-at="2019-04-16T11:28:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="projectList()[pri:0, instance:com.DemoGuru.testcases.TC_ProjectList@7e0ea639]" name="projectList" duration-ms="10246" started-at="2019-04-12T05:13:51Z" finished-at="2019-04-12T05:14:01Z">
+        <test-method status="PASS" signature="projectList()[pri:0, instance:com.DemoGuru.testcases.TC_ProjectList@59a6e353]" name="projectList" duration-ms="2604" started-at="2019-04-16T11:28:38Z" finished-at="2019-04-16T11:28:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- projectList -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:com.DemoGuru.testcases.TC_ProjectList@59a6e353]" name="terminate" is-config="true" duration-ms="616" started-at="2019-04-16T11:28:40Z" finished-at="2019-04-16T11:28:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
       </class> <!-- com.DemoGuru.testcases.TC_ProjectList -->
-      <class name="com.DemoGuru.testcases.TC_guru_login">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.DemoGuru.testcases.TC_guru_login@19dfb72a]" name="setup" is-config="true" duration-ms="5254" started-at="2019-04-12T05:13:14Z" finished-at="2019-04-12T05:13:20Z">
+      <class name="com.DemoGuru.testcases.TC_InsuranceProjectRegister">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.DemoGuru.testcases.TC_InsuranceProjectRegister@6fadae5d]" name="setup" is-config="true" duration-ms="4930" started-at="2019-04-16T11:28:57Z" finished-at="2019-04-16T11:29:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="demoLogin()[pri:0, instance:com.DemoGuru.testcases.TC_guru_login@19dfb72a]" name="demoLogin" duration-ms="1489" started-at="2019-04-12T05:13:20Z" finished-at="2019-04-12T05:13:21Z">
+        <test-method status="PASS" signature="InsuranceRegisterTest()[pri:0, instance:com.DemoGuru.testcases.TC_InsuranceProjectRegister@6fadae5d]" name="InsuranceRegisterTest" duration-ms="11495" started-at="2019-04-16T11:29:02Z" finished-at="2019-04-16T11:29:13Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- demoLogin -->
-      </class> <!-- com.DemoGuru.testcases.TC_guru_login -->
+        </test-method> <!-- InsuranceRegisterTest -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:com.DemoGuru.testcases.TC_InsuranceProjectRegister@6fadae5d]" name="terminate" is-config="true" duration-ms="664" started-at="2019-04-16T11:29:13Z" finished-at="2019-04-16T11:29:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- com.DemoGuru.testcases.TC_InsuranceProjectRegister -->
       <class name="com.DemoGuru.testcases.TC_MenulistItems">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.DemoGuru.testcases.TC_MenulistItems@3d24753a]" name="setup" is-config="true" duration-ms="25304" started-at="2019-04-12T05:14:01Z" finished-at="2019-04-12T05:14:27Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.DemoGuru.testcases.TC_MenulistItems@7a0ac6e3]" name="setup" is-config="true" duration-ms="5496" started-at="2019-04-16T11:28:41Z" finished-at="2019-04-16T11:28:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="getmenulist()[pri:0, instance:com.DemoGuru.testcases.TC_MenulistItems@3d24753a]" name="getmenulist" duration-ms="1907" started-at="2019-04-12T05:14:27Z" finished-at="2019-04-12T05:14:29Z">
+        <test-method status="PASS" signature="getmenulist()[pri:0, instance:com.DemoGuru.testcases.TC_MenulistItems@7a0ac6e3]" name="getmenulist" duration-ms="1501" started-at="2019-04-16T11:28:47Z" finished-at="2019-04-16T11:28:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getmenulist -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:com.DemoGuru.testcases.TC_MenulistItems@7a0ac6e3]" name="terminate" is-config="true" duration-ms="619" started-at="2019-04-16T11:28:48Z" finished-at="2019-04-16T11:28:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
       </class> <!-- com.DemoGuru.testcases.TC_MenulistItems -->
       <class name="com.DemoGuru.testcases.TC_AddNewCustomer">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.DemoGuru.testcases.TC_AddNewCustomer@17c68925]" name="setup" is-config="true" duration-ms="5221" started-at="2019-04-12T05:13:21Z" finished-at="2019-04-12T05:13:26Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.DemoGuru.testcases.TC_AddNewCustomer@3d24753a]" name="setup" is-config="true" duration-ms="5264" started-at="2019-04-16T11:28:21Z" finished-at="2019-04-16T11:28:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.DemoGuru.testcases.TC_AddNewCustomer@17c68925]" name="addNewCustomer" duration-ms="12738" started-at="2019-04-12T05:13:26Z" finished-at="2019-04-12T05:13:39Z">
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.DemoGuru.testcases.TC_AddNewCustomer@3d24753a]" name="addNewCustomer" duration-ms="5182" started-at="2019-04-16T11:28:27Z" finished-at="2019-04-16T11:28:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:com.DemoGuru.testcases.TC_AddNewCustomer@3d24753a]" name="terminate" is-config="true" duration-ms="630" started-at="2019-04-16T11:28:32Z" finished-at="2019-04-16T11:28:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
       </class> <!-- com.DemoGuru.testcases.TC_AddNewCustomer -->
+      <class name="com.DemoGuru.testcases.TC_Login">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.DemoGuru.testcases.TC_Login@7e0ea639]" name="setup" is-config="true" duration-ms="5406" started-at="2019-04-16T11:28:14Z" finished-at="2019-04-16T11:28:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.DemoGuru.testcases.TC_Login@7e0ea639]" name="Login" duration-ms="1265" started-at="2019-04-16T11:28:19Z" finished-at="2019-04-16T11:28:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:com.DemoGuru.testcases.TC_Login@7e0ea639]" name="terminate" is-config="true" duration-ms="640" started-at="2019-04-16T11:28:21Z" finished-at="2019-04-16T11:28:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- com.DemoGuru.testcases.TC_Login -->
     </test> <!-- Demo Guru99 -->
   </suite> <!-- Demo Test Suite -->
 </testng-results>

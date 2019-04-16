@@ -1324,3 +1324,69 @@
 2019-04-12 18:01:49,843 [main] INFO GuruDemo99 - ----- username entered !!!
 2019-04-12 18:01:49,905 [main] INFO GuruDemo99 - ----- password entered !!!
 2019-04-12 18:01:51,150 [main] INFO GuruDemo99 - ----- clicked on signIn button !!!
+2019-04-16 16:58:19,883 [main] INFO GuruDemo99 - ----- navigated to URL !!!
+2019-04-16 16:58:20,002 [main] INFO GuruDemo99 - ----- username entered !!!
+2019-04-16 16:58:20,063 [main] INFO GuruDemo99 - ----- password entered !!!
+2019-04-16 16:58:21,098 [main] INFO GuruDemo99 - ----- clicked on signIn button !!!
+2019-04-16 16:58:21,155 [main] INFO GuruDemo99 - ----- demoLogin testcase passed !!!
+2019-04-16 16:58:27,073 [main] INFO GuruDemo99 - ----- navigated to URL !!!
+2019-04-16 16:58:27,156 [main] INFO GuruDemo99 - ----- username entered !!!
+2019-04-16 16:58:27,223 [main] INFO GuruDemo99 - ----- password entered !!!
+2019-04-16 16:58:28,451 [main] INFO GuruDemo99 - ----- clicked on login button !!!
+2019-04-16 16:58:29,819 [main] INFO GuruDemo99 - ----- clicked on AddNewCustomer link !!!
+2019-04-16 16:58:29,895 [main] INFO GuruDemo99 - ----- name entered !!!
+2019-04-16 16:58:29,945 [main] INFO GuruDemo99 - ----- clicked on gender radio button !!!
+2019-04-16 16:58:30,068 [main] INFO GuruDemo99 - ----- DOB entered !!!
+2019-04-16 16:58:30,127 [main] INFO GuruDemo99 - ----- address entered !!!
+2019-04-16 16:58:30,233 [main] INFO GuruDemo99 - ----- city entered !!!
+2019-04-16 16:58:30,335 [main] INFO GuruDemo99 - ----- state entered !!!
+2019-04-16 16:58:30,417 [main] INFO GuruDemo99 - ----- pin entered !!!
+2019-04-16 16:58:30,488 [main] INFO GuruDemo99 - ----- mobile number entered !!!
+2019-04-16 16:58:30,582 [main] INFO GuruDemo99 - ----- ' rSbVM@amdev.in ' email entered !!!
+2019-04-16 16:58:30,635 [main] INFO GuruDemo99 - ----- password entered !!!
+2019-04-16 16:58:32,227 [main] INFO GuruDemo99 - ----- clicked on submit button !!!
+2019-04-16 16:58:32,255 [main] INFO GuruDemo99 - ----- addNewCustomer TestCase passed !!!
+2019-04-16 16:58:38,298 [main] INFO GuruDemo99 - ----- navigated to URL !!!
+2019-04-16 16:58:38,380 [main] INFO GuruDemo99 - ----- username entered !!!
+2019-04-16 16:58:38,438 [main] INFO GuruDemo99 - ----- password entered !!!
+2019-04-16 16:58:40,705 [main] INFO GuruDemo99 - ----- clicked on signIn button !!!
+2019-04-16 16:58:40,903 [main] INFO GuruDemo99 - ----- Above are the types of projects present on dashboard !!!
+2019-04-16 16:58:47,015 [main] INFO GuruDemo99 - ----- navigated to URL !!!
+2019-04-16 16:58:47,102 [main] INFO GuruDemo99 - ----- username entered !!!
+2019-04-16 16:58:47,163 [main] INFO GuruDemo99 - ----- password entered !!!
+2019-04-16 16:58:48,278 [main] INFO GuruDemo99 - ----- clicked on signIn button !!!
+2019-04-16 16:58:48,516 [main] INFO GuruDemo99 - ----- Fetched all the names present inside menu list !!!
+2019-04-16 16:58:54,751 [main] INFO GuruDemo99 - ----- navigated to URL !!!
+2019-04-16 16:58:54,826 [main] INFO GuruDemo99 - ----- username entered !!!
+2019-04-16 16:58:54,882 [main] INFO GuruDemo99 - ----- password entered !!!
+2019-04-16 16:58:56,167 [main] INFO GuruDemo99 - ----- clicked on signIn button !!!
+2019-04-16 16:59:02,207 [main] INFO GuruDemo99 - ----- navigated to URL !!!
+2019-04-16 16:59:02,294 [main] INFO GuruDemo99 - ----- username entered !!!
+2019-04-16 16:59:02,357 [main] INFO GuruDemo99 - ----- password entered !!!
+2019-04-16 16:59:03,405 [main] INFO GuruDemo99 - ----- clicked on signIn button !!!
+2019-04-16 16:59:05,838 [main] INFO GuruDemo99 - ----- clicked on Insurance Project !!!
+2019-04-16 16:59:06,831 [main] INFO GuruDemo99 - ----- clicked on Register button !!!
+2019-04-16 16:59:06,981 [main] INFO GuruDemo99 - ----- Title value set !!!
+2019-04-16 16:59:07,244 [main] INFO GuruDemo99 - ----- name entered !!!
+2019-04-16 16:59:07,449 [main] INFO GuruDemo99 - ----- surname entered !!!
+2019-04-16 16:59:07,728 [main] INFO GuruDemo99 - ----- phone entered !!!
+2019-04-16 16:59:07,987 [main] INFO GuruDemo99 - ----- DOB day value set !!!
+2019-04-16 16:59:08,196 [main] INFO GuruDemo99 - ----- DOB month value set !!!
+2019-04-16 16:59:08,372 [main] INFO GuruDemo99 - ----- DOB year value set !!!
+2019-04-16 16:59:08,448 [main] INFO GuruDemo99 - ----- License value set !!!
+2019-04-16 16:59:08,532 [main] INFO GuruDemo99 - ----- License period value set !!!
+2019-04-16 16:59:08,614 [main] INFO GuruDemo99 - ----- Occupation value set !!!
+2019-04-16 16:59:08,740 [main] INFO GuruDemo99 - ----- Street address entered !!!
+2019-04-16 16:59:08,802 [main] INFO GuruDemo99 - ----- City address entered !!!
+2019-04-16 16:59:08,865 [main] INFO GuruDemo99 - ----- Country address entered !!!
+2019-04-16 16:59:08,933 [main] INFO GuruDemo99 - ----- pin code entered !!!
+2019-04-16 16:59:09,043 [main] INFO GuruDemo99 - ----- ' LAfkH@amdev.in ' email entered !!!
+2019-04-16 16:59:09,118 [main] INFO GuruDemo99 - ----- password entered !!!
+2019-04-16 16:59:09,191 [main] INFO GuruDemo99 - ----- password re-entered !!!
+2019-04-16 16:59:10,072 [main] INFO GuruDemo99 - ----- clicked on create button !!!
+2019-04-16 16:59:10,115 [main] INFO GuruDemo99 - ----- text verified, New profile registered !!!
+2019-04-16 16:59:10,115 [main] INFO GuruDemo99 - ----- trying sign in with new profile .....
+2019-04-16 16:59:10,198 [main] INFO GuruDemo99 - ----- UserID entered !!!
+2019-04-16 16:59:10,256 [main] INFO GuruDemo99 - ----- Userpassword entered !!!
+2019-04-16 16:59:13,613 [main] INFO GuruDemo99 - ----- clicked on login button !!!
+2019-04-16 16:59:13,705 [main] INFO GuruDemo99 - ----- successfully signed in with new profile credentials, testcase passed !!!
